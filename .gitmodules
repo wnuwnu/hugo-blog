@@ -1,0 +1,7 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:wnuwnu/wnuwnu.github.io.git
+	branch = master
+[submodule "themes/ajonp-hugo-ionic"]
+	path = themes/ajonp-hugo-ionic
+	url = https://github.com/AJONPLLC/ajonp-hugo-ionic
